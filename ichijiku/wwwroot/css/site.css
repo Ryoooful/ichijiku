@@ -1,5 +1,28 @@
 @import url('open-iconic/font/css/open-iconic-bootstrap.min.css');
 
+.abq-icon {
+    content: url(../Images/abq.png);
+    width: 18px;
+    height: 18px;
+}
+
+.catia-icon {
+    content: url(../Images/catia.png);
+    width: 15px;
+    height: 15px;
+    display: inline-block;
+    margin-right: .3em;
+    vertical-align: -0.1em
+}
+
+.lsdyna-icon {
+    content: url(../Images/LS-DYNA.png);
+    width: 15px;
+    height: 15px;
+    display: inline-block;
+    margin-right: .3em;
+    vertical-align: -0.1em
+}
 html, body {
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }

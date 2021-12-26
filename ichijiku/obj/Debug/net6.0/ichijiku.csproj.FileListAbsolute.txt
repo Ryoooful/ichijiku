@@ -31,8 +31,13 @@ C:\git\ichijiku\ichijiku\obj\Debug\net6.0\ichijiku.dll
 C:\git\ichijiku\ichijiku\obj\Debug\net6.0\ref\ichijiku.dll
 C:\git\ichijiku\ichijiku\obj\Debug\net6.0\ichijiku.pdb
 C:\git\ichijiku\ichijiku\obj\Debug\net6.0\ichijiku.genruntimeconfig.cache
+C:\git\ichijiku\ichijiku\bin\Debug\net6.0\AntDesign.dll
+C:\git\ichijiku\ichijiku\bin\Debug\net6.0\Microsoft.AspNetCore.Components.DataAnnotations.Validation.dll
+C:\git\ichijiku\ichijiku\bin\Debug\net6.0\OneOf.dll
 C:\git\ichijiku\ichijiku\bin\Debug\net6.0\Newtonsoft.Json.dll
-C:\git\ichijiku\ichijiku\bin\Debug\net6.0\Syncfusion.Blazor.dll
-C:\git\ichijiku\ichijiku\bin\Debug\net6.0\Syncfusion.ExcelExport.Net.dll
-C:\git\ichijiku\ichijiku\bin\Debug\net6.0\Syncfusion.Licensing.dll
-C:\git\ichijiku\ichijiku\bin\Debug\net6.0\Syncfusion.PdfExport.Net.dll
+C:\git\ichijiku\ichijiku\bin\Debug\net6.0\Data\aaa.json
+C:\git\ichijiku\ichijiku\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\git\ichijiku\ichijiku\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
+C:\git\ichijiku\ichijiku\bin\Debug\net6.0\Radzen.Blazor.dll
+C:\git\ichijiku\ichijiku\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\git\ichijiku\ichijiku\bin\Debug\net6.0\System.Linq.Dynamic.Core.dll

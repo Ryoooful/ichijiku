@@ -44,17 +44,21 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "AntDesign": {
+              "target": "Package",
+              "version": "[0.10.3.1, )"
+            },
             "Microsoft.AspNetCore.Authentication.Negotiate": {
               "target": "Package",
-              "version": "[6.0.0, )"
+              "version": "[6.0.1, )"
             },
-            "Syncfusion.Blazor": {
+            "Newtonsoft.Json": {
               "target": "Package",
-              "version": "[19.3.0.57, )"
+              "version": "[13.0.1, )"
             },
-            "Syncfusion.Licensing": {
+            "Radzen.Blazor": {
               "target": "Package",
-              "version": "[19.3.0.57, )"
+              "version": "[3.13.10, )"
             }
           },
           "imports": [

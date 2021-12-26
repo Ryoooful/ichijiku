@@ -5,6 +5,7 @@
     flex-direction: column;
 }
 
+
 main[b-y9awa1e9np] {
     flex: 1;
 }
@@ -13,9 +14,11 @@ main[b-y9awa1e9np] {
     background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
 }
 
+.navbar-brand[b-y9awa1e9np] {
+    font-size: 1.1rem;
+}
+
 .top-row[b-y9awa1e9np] {
-    background-color: #f7f7f7;
-    border-bottom: 1px solid #d6d5d5;
     justify-content: flex-end;
     height: 3.5rem;
     display: flex;
@@ -52,7 +55,7 @@ main[b-y9awa1e9np] {
     }
 
     .sidebar[b-y9awa1e9np] {
-        width: 250px;
+        width: 200px;
         height: 100vh;
         position: sticky;
         top: 0;

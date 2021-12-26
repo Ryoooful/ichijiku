@@ -1,8 +1,9 @@
-using ichijiku.Data;
+
 using Microsoft.AspNetCore.Authentication.Negotiate;
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Web;
-using Syncfusion.Blazor;
+using Radzen;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -17,8 +18,8 @@ builder.Services.AddAuthorization(options =>
 
 builder.Services.AddRazorPages();
 builder.Services.AddServerSideBlazor();
-Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("NTQ3MjU3QDMxMzkyZTMzMmUzME5kdENnSjJoZ3FiZndYa091NWtENEVib1VRNGVUMkZCSEpmNURkQzIvQVk9");
-builder.Services.AddSyncfusionBlazor();
+builder.Services.AddAntDesign();
+builder.Services.AddScoped<DialogService>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

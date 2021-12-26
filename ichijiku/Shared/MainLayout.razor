@@ -2,19 +2,103 @@
 
 <PageTitle>ichijiku</PageTitle>
 
-<div class="page">
-    <div class="sidebar">
-        <NavMenu />
-    </div>
 
-    <main>
-        <div class="top-row px-4 auth">
+<Layout Style="min-height:100vh;">
+    <Sider Collapsible Collapsed=@collapsed OnCollapse=@onCollapse>
+        <Header>
+                <div class="content">
+                    <img src="./Images/shimeji.png" width="30" height="30" alt="logo"/>
+                </div>
+        </Header>
+        <Menu Theme="MenuTheme.Dark" DefaultSelectedKeys=@(new[]{"1"}) Mode="MenuMode.Inline">
+            <MenuItem Key="1">
+              <NavLink href="" Match="NavLinkMatch.All">
+                <Icon Type="pie-chart" Theme="outline" />
+                <span>Home</span>
+                </NavLink>
+            </MenuItem>
+            <MenuItem Key="2">
+                <NavLink  href="counter">
+                <Icon Type="desktop" Theme="outline" />
+                <span>Counter</span>
+                </NavLink>
+            </MenuItem>
+            @{
+                RenderFragment sub1Title =
+                    @<span>
+                        <Icon Type="user" Theme="outline"/>
+                        <span>User</span>
+                    </span>;
+            }
+            <SubMenu Key="sub1" TitleTemplate=sub1Title>
+                <MenuItem Key="3">Tom</MenuItem>
+                <MenuItem Key="4">Bill</MenuItem>
+                <MenuItem Key="5">Alex</MenuItem>
+            </SubMenu>
+            @{
+                RenderFragment sub2Title =
+                    @<span>
+                        <Icon Type="team" Theme="outline"/>
+                        <span>Team</span>
+                    </span>;
+            }
+            <SubMenu Key="sub2" TitleTemplate=sub2Title>
+                <MenuItem Key="6">Team 1</MenuItem>
+                <MenuItem Key="8">Team 2</MenuItem>
+            </SubMenu>
+            <MenuItem Key="9">
+                <Icon Type="file" Theme="outline"/>
+            </MenuItem>
+        </Menu>
+    </Sider>
+    <Layout>
+        <Header Class="login-name">
             <LoginDisplay />
-            <a href="https://docs.microsoft.com/aspnet/" target="_blank">About</a>
-        </div>
-
-        <article class="content px-4">
+        </Header>
+        <Content Class="site-layout-background" Style="margin: 16px 16px;padding: 2px;min-height:90vh;">
             @Body
-        </article>
-    </main>
-</div>
+        </Content>
+    </Layout>
+</Layout>
+
+
+
+@code {
+    bool collapsed;
+
+   void onCollapse(bool collapsed) {
+        Console.WriteLine(collapsed);
+        this.collapsed =collapsed;
+    }
+}
+
+
+<style>
+    .logo:before {
+        /*content: url("./Images/shimeji.png");*/
+        background: rgba(255, 255, 255 0.2);
+        width: 31px;
+        height: 31px;
+        float: left;
+        display: grid;
+        justify-content: center;
+    }
+    
+    .site-layout .site-layout-background {
+        background: #fff;
+    }
+
+    .content {
+      display: grid;
+      justify-content: center;
+    }
+
+    .login-name {
+      display: grid;
+      justify-content: right;
+
+    }
+
+
+</style>
+
