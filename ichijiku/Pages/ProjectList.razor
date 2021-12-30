@@ -1,0 +1,21 @@
+﻿@page "/projectlist"
+<h3>Project</h3>
+
+@if (projectModels == null)
+{
+    <div class="text-lg-center">
+        <Spin />
+    </div>
+}
+else
+{
+    
+}
+
+@code {
+    List<ProjectModel>? projectModels { get; set; }
+    protected override async Task OnInitializedAsync()
+    {
+        projectModels = await Http.GetFromJsonAsync<List<ProjectModel>>("http://localhost:1111/api/WebAPI/GetAnalysisList/");
+    }
+}

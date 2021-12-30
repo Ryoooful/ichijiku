@@ -36,15 +36,16 @@ namespace api.Services
             throw new NotImplementedException();
         }
 
-
-        public async Task<List<T>> LoadData<T, U>(string sql, U parameters)
+        public async Task<string> LoadData<T>(string sql, T parameters)
         {
             string connectionString = _config.GetConnectionString(ConnectionString);
 
             using (IDbConnection connection = new SqlConnection(connectionString))
             {
-                var data = await connection.QueryAsync<T>(sql, parameters);
-                return data.ToList();
+                var data = await connection.QueryAsync<string>(sql, parameters);
+                var json = string.Join("", data);
+                if (json == "") json = "[]";
+                return json;
             }
         }
 

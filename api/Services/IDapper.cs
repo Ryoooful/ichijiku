@@ -12,7 +12,7 @@ namespace api.Services
     {
         DbConnection GetDbconnection();
         
-        Task<List<T>> LoadData<T, U>(string sql, U parameters);
+        Task<string> LoadData<T>(string sql, T parameters);
 
         
         Task<T> Execute<T, U>(string sql, U parameters);
