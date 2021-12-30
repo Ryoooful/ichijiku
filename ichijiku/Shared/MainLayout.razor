@@ -13,7 +13,7 @@
         <Menu Theme="MenuTheme.Dark" DefaultSelectedKeys=@(new[]{"1"}) Mode="MenuMode.Inline">
             <MenuItem Key="1">
               <NavLink href="" Match="NavLinkMatch.All">
-                <Icon Type="pie-chart" Theme="outline" />
+                <Icon Type="home" Theme="outline"/>
                 <span>Home</span>
                 </NavLink>
             </MenuItem>
@@ -26,29 +26,26 @@
             @{
                 RenderFragment sub1Title =
                     @<span>
-                        <Icon Type="user" Theme="outline"/>
-                        <span>User</span>
+                        <Icon Type="project" Theme="outline"/>
+                        <span>Apply</span>
                     </span>;
             }
             <SubMenu Key="sub1" TitleTemplate=sub1Title>
-                <MenuItem Key="3">Tom</MenuItem>
-                <MenuItem Key="4">Bill</MenuItem>
-                <MenuItem Key="5">Alex</MenuItem>
+                <MenuItem Key="3">Project</MenuItem>
+                <MenuItem Key="4">Product</MenuItem>
+                <MenuItem Key="5">Drawing</MenuItem>
             </SubMenu>
             @{
                 RenderFragment sub2Title =
                     @<span>
-                        <Icon Type="team" Theme="outline"/>
-                        <span>Team</span>
+                        <Icon Type="setting" Theme="outline"/>
+                        <span>Setting</span>
                     </span>;
             }
             <SubMenu Key="sub2" TitleTemplate=sub2Title>
-                <MenuItem Key="6">Team 1</MenuItem>
-                <MenuItem Key="8">Team 2</MenuItem>
+                <MenuItem Key="6">User</MenuItem>
+                <MenuItem Key="8">Dept</MenuItem>
             </SubMenu>
-            <MenuItem Key="9">
-                <Icon Type="file" Theme="outline"/>
-            </MenuItem>
         </Menu>
     </Sider>
     <Layout>
