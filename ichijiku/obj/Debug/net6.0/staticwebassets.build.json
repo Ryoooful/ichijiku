@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/2Q4PVJgK+ca3YuFnsoPh6U/+PLoq4GnnpZIlOwUHgA=",
+  "Hash": "GMPAiNmt5WNjeiE8NNfAVV+qltzykIvKvjF195Oa3WI=",
   "Source": "ichijiku",
   "BasePath": "_content/ichijiku",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "ichijiku\\wwwroot",
       "Source": "ichijiku",
-      "ContentRoot": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\",
+      "ContentRoot": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\",
       "BasePath": "_content/ichijiku",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\git\\ichijiku\\ichijiku\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ichijiku.styles.css",
+      "Identity": "C:\\Git\\ichijiku\\ichijiku\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ichijiku.styles.css",
       "SourceId": "ichijiku",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\git\\ichijiku\\ichijiku\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Git\\ichijiku\\ichijiku\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/ichijiku",
       "RelativePath": "ichijiku.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\git\\ichijiku\\ichijiku\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ichijiku.styles.css"
+      "OriginalItemSpec": "C:\\Git\\ichijiku\\ichijiku\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ichijiku.styles.css"
     },
     {
-      "Identity": "C:\\git\\ichijiku\\ichijiku\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ichijiku.bundle.scp.css",
+      "Identity": "C:\\Git\\ichijiku\\ichijiku\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ichijiku.bundle.scp.css",
       "SourceId": "ichijiku",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\git\\ichijiku\\ichijiku\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Git\\ichijiku\\ichijiku\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/ichijiku",
       "RelativePath": "ichijiku.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\git\\ichijiku\\ichijiku\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ichijiku.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Git\\ichijiku\\ichijiku\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ichijiku.bundle.scp.css"
     },
     {
-      "Identity": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "ichijiku",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\",
+      "ContentRoot": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\",
       "BasePath": "_content/ichijiku",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "ichijiku",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\",
+      "ContentRoot": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\",
       "BasePath": "_content/ichijiku",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "ichijiku",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\",
+      "ContentRoot": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\",
       "BasePath": "_content/ichijiku",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "ichijiku",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\",
+      "ContentRoot": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\",
       "BasePath": "_content/ichijiku",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "ichijiku",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\",
+      "ContentRoot": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\",
       "BasePath": "_content/ichijiku",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "ichijiku",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\",
+      "ContentRoot": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\",
       "BasePath": "_content/ichijiku",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "ichijiku",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\",
+      "ContentRoot": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\",
       "BasePath": "_content/ichijiku",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "ichijiku",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\",
+      "ContentRoot": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\",
       "BasePath": "_content/ichijiku",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "ichijiku",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\",
+      "ContentRoot": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\",
       "BasePath": "_content/ichijiku",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "ichijiku",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\",
+      "ContentRoot": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\",
       "BasePath": "_content/ichijiku",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "ichijiku",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\",
+      "ContentRoot": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\",
       "BasePath": "_content/ichijiku",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\css\\site.css",
       "SourceId": "ichijiku",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\",
+      "ContentRoot": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\",
       "BasePath": "_content/ichijiku",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\favicon.ico",
       "SourceId": "ichijiku",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\",
+      "ContentRoot": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\",
       "BasePath": "_content/ichijiku",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\Images\\abq.png",
+      "Identity": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\Images\\abq.png",
       "SourceId": "ichijiku",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\",
+      "ContentRoot": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\",
       "BasePath": "_content/ichijiku",
       "RelativePath": "Images/abq.png",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\abq.png"
     },
     {
-      "Identity": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\Images\\catia.png",
+      "Identity": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\Images\\catia.png",
       "SourceId": "ichijiku",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\",
+      "ContentRoot": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\",
       "BasePath": "_content/ichijiku",
       "RelativePath": "Images/catia.png",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\catia.png"
     },
     {
-      "Identity": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\Images\\favicon.ico",
+      "Identity": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\Images\\favicon.ico",
       "SourceId": "ichijiku",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\",
+      "ContentRoot": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\",
       "BasePath": "_content/ichijiku",
       "RelativePath": "Images/favicon.ico",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\favicon.ico"
     },
     {
-      "Identity": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\Images\\LS-DYNA.png",
+      "Identity": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\Images\\LS-DYNA.png",
       "SourceId": "ichijiku",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\",
+      "ContentRoot": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\",
       "BasePath": "_content/ichijiku",
       "RelativePath": "Images/LS-DYNA.png",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\LS-DYNA.png"
     },
     {
-      "Identity": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\Images\\mkSymbolicLink.bat",
+      "Identity": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\Images\\mkSymbolicLink.bat",
       "SourceId": "ichijiku",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\",
+      "ContentRoot": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\",
       "BasePath": "_content/ichijiku",
       "RelativePath": "Images/mkSymbolicLink.bat",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\mkSymbolicLink.bat"
     },
     {
-      "Identity": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\Images\\shimeji.png",
+      "Identity": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\Images\\shimeji.png",
       "SourceId": "ichijiku",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\",
+      "ContentRoot": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\",
       "BasePath": "_content/ichijiku",
       "RelativePath": "Images/shimeji.png",
       "AssetKind": "All",
@@ -5882,10 +5882,10 @@
       "OriginalItemSpec": "C:\\Users\\Ryoooful\\.nuget\\packages\\antdesign\\0.10.3.1\\staticwebassets\\less\\upload\\style\\rtl.less"
     },
     {
-      "Identity": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\css\\dark.css",
+      "Identity": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\css\\dark.css",
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\",
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "css/dark.css",
       "AssetKind": "All",
@@ -5896,13 +5896,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\css\\dark.css"
+      "OriginalItemSpec": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\css\\dark.css"
     },
     {
-      "Identity": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\css\\dark-base.css",
+      "Identity": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\css\\dark-base.css",
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\",
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "css/dark-base.css",
       "AssetKind": "All",
@@ -5913,13 +5913,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\css\\dark-base.css"
+      "OriginalItemSpec": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\css\\dark-base.css"
     },
     {
-      "Identity": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\css\\default.css",
+      "Identity": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\css\\default.css",
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\",
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "css/default.css",
       "AssetKind": "All",
@@ -5930,13 +5930,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\css\\default.css"
+      "OriginalItemSpec": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\css\\default.css"
     },
     {
-      "Identity": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\css\\default-base.css",
+      "Identity": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\css\\default-base.css",
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\",
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "css/default-base.css",
       "AssetKind": "All",
@@ -5947,13 +5947,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\css\\default-base.css"
+      "OriginalItemSpec": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\css\\default-base.css"
     },
     {
-      "Identity": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\css\\humanistic.css",
+      "Identity": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\css\\humanistic.css",
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\",
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "css/humanistic.css",
       "AssetKind": "All",
@@ -5964,13 +5964,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\css\\humanistic.css"
+      "OriginalItemSpec": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\css\\humanistic.css"
     },
     {
-      "Identity": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\css\\humanistic-base.css",
+      "Identity": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\css\\humanistic-base.css",
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\",
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "css/humanistic-base.css",
       "AssetKind": "All",
@@ -5981,13 +5981,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\css\\humanistic-base.css"
+      "OriginalItemSpec": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\css\\humanistic-base.css"
     },
     {
-      "Identity": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\css\\software.css",
+      "Identity": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\css\\software.css",
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\",
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "css/software.css",
       "AssetKind": "All",
@@ -5998,13 +5998,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\css\\software.css"
+      "OriginalItemSpec": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\css\\software.css"
     },
     {
-      "Identity": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\css\\software-base.css",
+      "Identity": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\css\\software-base.css",
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\",
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "css/software-base.css",
       "AssetKind": "All",
@@ -6015,13 +6015,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\css\\software-base.css"
+      "OriginalItemSpec": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\css\\software-base.css"
     },
     {
-      "Identity": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\css\\standard.css",
+      "Identity": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\css\\standard.css",
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\",
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "css/standard.css",
       "AssetKind": "All",
@@ -6032,13 +6032,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\css\\standard.css"
+      "OriginalItemSpec": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\css\\standard.css"
     },
     {
-      "Identity": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\css\\standard-base.css",
+      "Identity": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\css\\standard-base.css",
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\",
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "css/standard-base.css",
       "AssetKind": "All",
@@ -6049,13 +6049,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\css\\standard-base.css"
+      "OriginalItemSpec": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\css\\standard-base.css"
     },
     {
-      "Identity": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\fonts\\MaterialIcons-Regular.woff",
+      "Identity": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\fonts\\MaterialIcons-Regular.woff",
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\",
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "fonts/MaterialIcons-Regular.woff",
       "AssetKind": "All",
@@ -6066,13 +6066,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\fonts\\MaterialIcons-Regular.woff"
+      "OriginalItemSpec": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\fonts\\MaterialIcons-Regular.woff"
     },
     {
-      "Identity": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\fonts\\roboto-v15-latin-300.woff",
+      "Identity": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\fonts\\roboto-v15-latin-300.woff",
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\",
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "fonts/roboto-v15-latin-300.woff",
       "AssetKind": "All",
@@ -6083,13 +6083,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\fonts\\roboto-v15-latin-300.woff"
+      "OriginalItemSpec": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\fonts\\roboto-v15-latin-300.woff"
     },
     {
-      "Identity": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\fonts\\roboto-v15-latin-700.woff",
+      "Identity": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\fonts\\roboto-v15-latin-700.woff",
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\",
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "fonts/roboto-v15-latin-700.woff",
       "AssetKind": "All",
@@ -6100,13 +6100,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\fonts\\roboto-v15-latin-700.woff"
+      "OriginalItemSpec": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\fonts\\roboto-v15-latin-700.woff"
     },
     {
-      "Identity": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\fonts\\roboto-v15-latin-regular.woff",
+      "Identity": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\fonts\\roboto-v15-latin-regular.woff",
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\",
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "fonts/roboto-v15-latin-regular.woff",
       "AssetKind": "All",
@@ -6117,13 +6117,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\fonts\\roboto-v15-latin-regular.woff"
+      "OriginalItemSpec": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\fonts\\roboto-v15-latin-regular.woff"
     },
     {
-      "Identity": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\fonts\\SourceSansPro-Black.woff",
+      "Identity": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\fonts\\SourceSansPro-Black.woff",
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\",
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "fonts/SourceSansPro-Black.woff",
       "AssetKind": "All",
@@ -6134,13 +6134,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\fonts\\SourceSansPro-Black.woff"
+      "OriginalItemSpec": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\fonts\\SourceSansPro-Black.woff"
     },
     {
-      "Identity": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\fonts\\SourceSansPro-BlackIt.woff",
+      "Identity": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\fonts\\SourceSansPro-BlackIt.woff",
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\",
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "fonts/SourceSansPro-BlackIt.woff",
       "AssetKind": "All",
@@ -6151,13 +6151,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\fonts\\SourceSansPro-BlackIt.woff"
+      "OriginalItemSpec": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\fonts\\SourceSansPro-BlackIt.woff"
     },
     {
-      "Identity": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\fonts\\SourceSansPro-Bold.woff",
+      "Identity": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\fonts\\SourceSansPro-Bold.woff",
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\",
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "fonts/SourceSansPro-Bold.woff",
       "AssetKind": "All",
@@ -6168,13 +6168,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\fonts\\SourceSansPro-Bold.woff"
+      "OriginalItemSpec": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\fonts\\SourceSansPro-Bold.woff"
     },
     {
-      "Identity": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\fonts\\SourceSansPro-BoldIt.woff",
+      "Identity": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\fonts\\SourceSansPro-BoldIt.woff",
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\",
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "fonts/SourceSansPro-BoldIt.woff",
       "AssetKind": "All",
@@ -6185,13 +6185,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\fonts\\SourceSansPro-BoldIt.woff"
+      "OriginalItemSpec": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\fonts\\SourceSansPro-BoldIt.woff"
     },
     {
-      "Identity": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\fonts\\SourceSansPro-ExtraLight.woff",
+      "Identity": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\fonts\\SourceSansPro-ExtraLight.woff",
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\",
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "fonts/SourceSansPro-ExtraLight.woff",
       "AssetKind": "All",
@@ -6202,13 +6202,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\fonts\\SourceSansPro-ExtraLight.woff"
+      "OriginalItemSpec": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\fonts\\SourceSansPro-ExtraLight.woff"
     },
     {
-      "Identity": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\fonts\\SourceSansPro-ExtraLightIt.woff",
+      "Identity": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\fonts\\SourceSansPro-ExtraLightIt.woff",
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\",
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "fonts/SourceSansPro-ExtraLightIt.woff",
       "AssetKind": "All",
@@ -6219,13 +6219,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\fonts\\SourceSansPro-ExtraLightIt.woff"
+      "OriginalItemSpec": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\fonts\\SourceSansPro-ExtraLightIt.woff"
     },
     {
-      "Identity": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\fonts\\SourceSansPro-It.woff",
+      "Identity": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\fonts\\SourceSansPro-It.woff",
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\",
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "fonts/SourceSansPro-It.woff",
       "AssetKind": "All",
@@ -6236,13 +6236,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\fonts\\SourceSansPro-It.woff"
+      "OriginalItemSpec": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\fonts\\SourceSansPro-It.woff"
     },
     {
-      "Identity": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\fonts\\SourceSansPro-Light.woff",
+      "Identity": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\fonts\\SourceSansPro-Light.woff",
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\",
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "fonts/SourceSansPro-Light.woff",
       "AssetKind": "All",
@@ -6253,13 +6253,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\fonts\\SourceSansPro-Light.woff"
+      "OriginalItemSpec": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\fonts\\SourceSansPro-Light.woff"
     },
     {
-      "Identity": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\fonts\\SourceSansPro-LightIt.woff",
+      "Identity": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\fonts\\SourceSansPro-LightIt.woff",
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\",
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "fonts/SourceSansPro-LightIt.woff",
       "AssetKind": "All",
@@ -6270,13 +6270,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\fonts\\SourceSansPro-LightIt.woff"
+      "OriginalItemSpec": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\fonts\\SourceSansPro-LightIt.woff"
     },
     {
-      "Identity": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\fonts\\SourceSansPro-Regular.woff",
+      "Identity": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\fonts\\SourceSansPro-Regular.woff",
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\",
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "fonts/SourceSansPro-Regular.woff",
       "AssetKind": "All",
@@ -6287,13 +6287,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\fonts\\SourceSansPro-Regular.woff"
+      "OriginalItemSpec": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\fonts\\SourceSansPro-Regular.woff"
     },
     {
-      "Identity": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\fonts\\SourceSansPro-Semibold.woff",
+      "Identity": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\fonts\\SourceSansPro-Semibold.woff",
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\",
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "fonts/SourceSansPro-Semibold.woff",
       "AssetKind": "All",
@@ -6304,13 +6304,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\fonts\\SourceSansPro-Semibold.woff"
+      "OriginalItemSpec": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\fonts\\SourceSansPro-Semibold.woff"
     },
     {
-      "Identity": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\fonts\\SourceSansPro-SemiboldIt.woff",
+      "Identity": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\fonts\\SourceSansPro-SemiboldIt.woff",
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\",
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "fonts/SourceSansPro-SemiboldIt.woff",
       "AssetKind": "All",
@@ -6321,13 +6321,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\fonts\\SourceSansPro-SemiboldIt.woff"
+      "OriginalItemSpec": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\fonts\\SourceSansPro-SemiboldIt.woff"
     },
     {
-      "Identity": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\Radzen.Blazor.js",
+      "Identity": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\Radzen.Blazor.js",
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\",
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "Radzen.Blazor.js",
       "AssetKind": "All",
@@ -6338,7 +6338,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.13.10\\staticwebassets\\Radzen.Blazor.js"
+      "OriginalItemSpec": "C:\\Users\\Ryoooful\\.nuget\\packages\\radzen.blazor\\3.14.0\\staticwebassets\\Radzen.Blazor.js"
     }
   ]
 }

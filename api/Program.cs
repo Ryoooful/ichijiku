@@ -1,7 +1,15 @@
 using api.Services;
+using System.Data.SqlClient;
+using Dapper;
+
 
 var builder = WebApplication.CreateBuilder(args);
+//var ConnectionString = builder.Configuration.GetConnectionString("DefaultConnection");
 // Add services to the container.
+
+
+
+
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddControllers();
 builder.Services.AddSingleton<IDapper, Dapperr>();
@@ -20,5 +28,7 @@ app.UseHttpsRedirection();
 app.UseAuthorization();
 
 app.MapControllers();
+
+
 
 app.Run();

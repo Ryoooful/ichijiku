@@ -311,7 +311,7 @@
           "lib/netstandard1.3/OneOf.dll": {}
         }
       },
-      "Radzen.Blazor/3.13.10": {
+      "Radzen.Blazor/3.14.0": {
         "type": "package",
         "dependencies": {
           "Microsoft.AspNetCore.Components": "5.0.0",
@@ -2315,10 +2315,10 @@
         "oneof.nuspec"
       ]
     },
-    "Radzen.Blazor/3.13.10": {
-      "sha512": "NqUdJzBA0EDh1mheUqXvfiPqQsSiAkMM5+sGYRTZBZ0HrqAxs+0GrIMZAs6XdcvFbVkBaRam/m2qR33EPL8OuQ==",
+    "Radzen.Blazor/3.14.0": {
+      "sha512": "eB1/QSODGTjKSK9LLGqgWKlS50kSYph+VLn+J3B4BeXluj2lByiK6LNWZFXGsdE3wKzn6fxmwjhDrdOFA6sr/w==",
       "type": "package",
-      "path": "radzen.blazor/3.13.10",
+      "path": "radzen.blazor/3.14.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -2332,7 +2332,7 @@
         "lib/net5.0/Radzen.Blazor.xml",
         "lib/netstandard2.1/Radzen.Blazor.dll",
         "lib/netstandard2.1/Radzen.Blazor.xml",
-        "radzen.blazor.3.13.10.nupkg.sha512",
+        "radzen.blazor.3.14.0.nupkg.sha512",
         "radzen.blazor.nuspec",
         "staticwebassets/Radzen.Blazor.js",
         "staticwebassets/css/dark-base.css",
@@ -5614,7 +5614,7 @@
       "AntDesign >= 0.10.3.1",
       "Microsoft.AspNetCore.Authentication.Negotiate >= 6.0.1",
       "Newtonsoft.Json >= 13.0.1",
-      "Radzen.Blazor >= 3.13.10"
+      "Radzen.Blazor >= 3.14.0"
     ]
   },
   "packageFolders": {
@@ -5624,11 +5624,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\git\\ichijiku\\ichijiku\\ichijiku.csproj",
+      "projectUniqueName": "C:\\Git\\ichijiku\\ichijiku\\ichijiku.csproj",
       "projectName": "ichijiku",
-      "projectPath": "C:\\git\\ichijiku\\ichijiku\\ichijiku.csproj",
+      "projectPath": "C:\\Git\\ichijiku\\ichijiku\\ichijiku.csproj",
       "packagesPath": "C:\\Users\\Ryoooful\\.nuget\\packages\\",
-      "outputPath": "C:\\git\\ichijiku\\ichijiku\\obj\\",
+      "outputPath": "C:\\Git\\ichijiku\\ichijiku\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5675,7 +5675,7 @@
           },
           "Radzen.Blazor": {
             "target": "Package",
-            "version": "[3.13.10, )"
+            "version": "[3.14.0, )"
           }
         },
         "imports": [

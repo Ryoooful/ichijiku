@@ -10,7 +10,12 @@
       "ProjectGuid": "d1e45f44-543a-4b16-b129-fd93441a84df",
       "DisplayName": "ichijiku",
       "ColorIndex": 0
+    },
+    "9b87d683-02a5-4cad-8f0a-e74c77f82a12": {
+      "ProjectGuid": "9b87d683-02a5-4cad-8f0a-e74c77f82a12",
+      "DisplayName": "api",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }

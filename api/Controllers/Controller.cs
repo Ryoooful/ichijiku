@@ -21,14 +21,13 @@ namespace api.Controllers
         }
 
         [HttpGet(nameof(GetUserModel))]
-        public async Task<LoginUserModel> GetUserModel(string domainName)
+        public async Task<string> GetUserModel(string? user_cd , string? dept_cd)
         {
-            string user_id = domainName.Replace("DIRECTRI\\", "");
-            string sql = _dapper.ReadSqlText("r_LoginUser.sql");
-            List<LoginUserModel> loginUserModels = await _dapper.LoadData<LoginUserModel, dynamic>(sql, new { user_id = user_id });
-            return loginUserModels[0];
+            user_cd = user_cd ?? "";
+            user_cd = user_cd.Replace("DIRECTRI\\", "");
+            string sql = _dapper.ReadSqlText("r_UserList.sql");
+            return await _dapper.LoadData<dynamic>(sql, new { user_cd = user_cd, dept_cd = dept_cd ?? "" }); 
         }
-
 
 
 

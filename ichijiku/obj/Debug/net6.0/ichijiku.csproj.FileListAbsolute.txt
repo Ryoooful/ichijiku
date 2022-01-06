@@ -38,6 +38,6 @@ C:\git\ichijiku\ichijiku\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\git\ichijiku\ichijiku\bin\Debug\net6.0\Data\aaa.json
 C:\git\ichijiku\ichijiku\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
 C:\git\ichijiku\ichijiku\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
-C:\git\ichijiku\ichijiku\bin\Debug\net6.0\Radzen.Blazor.dll
 C:\git\ichijiku\ichijiku\bin\Debug\net6.0\System.IO.Pipelines.dll
-C:\git\ichijiku\ichijiku\bin\Debug\net6.0\System.Linq.Dynamic.Core.dll
+C:\Git\ichijiku\ichijiku\bin\Debug\net6.0\Radzen.Blazor.dll
+C:\Git\ichijiku\ichijiku\bin\Debug\net6.0\System.Linq.Dynamic.Core.dll

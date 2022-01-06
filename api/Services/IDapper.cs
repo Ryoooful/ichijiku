@@ -11,16 +11,11 @@ namespace api.Services
     public interface IDapper : IDisposable
     {
         DbConnection GetDbconnection();
-        
-        Task<string> LoadData<T>(string sql, T parameters);
-
-        
+        Task<string> LoadData<T>(string sql, T parameters);        
         Task<T> Execute<T, U>(string sql, U parameters);
-        
         void BeginTran();
         void CommitTran();
         void RollBackTran();
         string ReadSqlText(string sqlName);
-
     }
 }
