@@ -1,4 +1,4 @@
-﻿-- DECLARE @user_cd AS VARCHAR(50) = '',
+-- DECLARE @user_cd AS VARCHAR(50) = '',
 -- @dept_cd AS VARCHAR(10) = ''
 SELECT
     m_user_cd.user_cd,

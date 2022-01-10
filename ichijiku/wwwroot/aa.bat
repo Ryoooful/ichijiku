@@ -1,0 +1,1 @@
+mklink /d %~dp0¥Capture \\kfs05\share1\3165-BG-Draw\CATIAV5\PBS\AnalysisServer

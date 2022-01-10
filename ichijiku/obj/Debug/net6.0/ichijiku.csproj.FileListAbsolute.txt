@@ -23,7 +23,6 @@ C:\git\ichijiku\ichijiku\obj\Debug\net6.0\ichijiku.RazorAssemblyInfo.cs
 C:\git\ichijiku\ichijiku\obj\Debug\net6.0\staticwebassets.build.json
 C:\git\ichijiku\ichijiku\obj\Debug\net6.0\staticwebassets.development.json
 C:\git\ichijiku\ichijiku\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
-C:\git\ichijiku\ichijiku\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
 C:\git\ichijiku\ichijiku\obj\Debug\net6.0\scopedcss\bundle\ichijiku.styles.css
 C:\git\ichijiku\ichijiku\obj\Debug\net6.0\scopedcss\projectbundle\ichijiku.bundle.scp.css
 C:\git\ichijiku\ichijiku\obj\Debug\net6.0\ichijiku.csproj.CopyComplete

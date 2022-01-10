@@ -719,11 +719,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\git\\ichijiku\\api\\api.csproj",
+      "projectUniqueName": "C:\\Git\\ichijiku\\api\\api.csproj",
       "projectName": "api",
-      "projectPath": "C:\\git\\ichijiku\\api\\api.csproj",
+      "projectPath": "C:\\Git\\ichijiku\\api\\api.csproj",
       "packagesPath": "C:\\Users\\Ryoooful\\.nuget\\packages\\",
-      "outputPath": "C:\\git\\ichijiku\\api\\obj\\",
+      "outputPath": "C:\\Git\\ichijiku\\api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -791,7 +791,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

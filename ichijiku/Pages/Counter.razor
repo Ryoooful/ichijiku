@@ -1,71 +1,28 @@
 ﻿@page "/counter"
-@inject IJSRuntime JSRuntime
+@inject HttpClient Http
 
-
-@if (requestModel == null)
+@if (projectModels == null)
 {
-    <Spin class="align-content-center" />
+    <div class="text-lg-center">
+        <Spin />
+    </div>
 }
 else
 {
-    <Descriptions Title="依頼詳細" Bordered Size="small">
-    <DescriptionsItem Title="管理番号">
-        @requestModel.Control_id
-    </DescriptionsItem>
-    <DescriptionsItem Title="依頼番号">
-        <Input Type="text" @bind-Value="requestModel.Control_number" Size="@InputSize.Small" />
-    </DescriptionsItem>
-    <DescriptionsItem Title="担当者">
-        <Input Type="text" @bind-Value="requestModel.Control_number" Size="@InputSize.Small"/>
-    </DescriptionsItem>
-    <DescriptionsItem Title="内容" Span="3">
-        <Input Type="text" @bind-Value="requestModel.Contents" Size="@InputSize.Small"/>
-    </DescriptionsItem>
-    <DescriptionsItem Title="備考" 　Span="3">
-        <Input Type="text" @bind-Value="requestModel.Memo" Size="@InputSize.Small"/>
-    </DescriptionsItem>
-    </Descriptions>
-    <br />
-    <Table DataSource="@requestModel.ItemModels" TItem="ItemModel" Size=@TableSize.Small>
-        <RowTemplate>
-            <Column TData="string" DataIndex="Zuban" Title="図番">
-                <Input Type="text" @bind-Value="context.Zuban" Size="@InputSize.Small"/>
-            </Column>
-            <Column TData="string" DataIndex="Hinban" Title="品番">
-                <Input Type="text" @bind-Value="context.Hinban" Size="@InputSize.Small"/>
-            </Column>
-            <Column TData="int" DataIndex="Negotiated_price" Title="取決価格">
-                <Input Type="number" @bind-Value="context.Negotiated_price" Size="@InputSize.Small"/>
-            </Column>
-        </RowTemplate>
-        <ExpandTemplate Context="rowData">
-            <Table DataSource="rowData.Data.JobModels" Loading="rowData.Data.JobModels==null" Size=@TableSize.Small>
-                <RowTemplate>
-                    <Column TData="int" DataIndex="Task_id" Title="価格表" />
-                    <Column TData="int" DataIndex="Quantity" Title="数量" />
-                </RowTemplate>
-                <ExpandTemplate Context="opData">
-                    <Table DataSource="opData.Data.OptionModels" Loading="opData.Data.OptionModels==null" Size=@TableSize.Small>
-                        <RowTemplate>
-                            <Column TData="int" DataIndex="option_id" Title="価格表" />
-                            <Column TData="int" DataIndex="Quantity" Title="数量" />
-                        </RowTemplate>
-                    </Table>
-                </ExpandTemplate>
-            </Table>
-        </ExpandTemplate>
-    </Table>
+    <Table DataSource="projectModels" TItem="ProjectModel">
+        <Column TData="string"
+            @bind-Field="context.Project_Cd"
+            Sortable
+            Filterable />
+
+    
+</Table>
+
 }
-
-
 @code {
-    public RequestModel? requestModel { get; set; }
-
-
-            protected override void OnInitialized()
-            {
-                string jsonstr = File.ReadAllText("./Data/aaa.json");
-                requestModel = JsonConvert.DeserializeObject<RequestModel>(jsonstr);
-
-            }
+    List<ProjectModel>? projectModels { get; set; }
+    protected override async Task OnInitializedAsync()
+    {
+        projectModels = await Http.GetFromJsonAsync<List<ProjectModel>>("https://localhost:1111/api/GetProjectList?project_id=-1");
+    }
 }

@@ -7,7 +7,7 @@
     <Sider Collapsible Collapsed=@collapsed OnCollapse=@onCollapse>
         <Header>
                 <div class="content">
-                    <img src="./Images/shimeji.png" width="30" height="30" alt="logo"/>
+                    @*<img src="./Images/shimeji.png" width="30" height="30" alt="logo"/>*@
                 </div>
         </Header>
         <Menu Theme="MenuTheme.Dark" DefaultSelectedKeys=@(new[]{"1"}) Mode="MenuMode.Inline">
@@ -31,7 +31,12 @@
                     </span>;
             }
             <SubMenu Key="sub1" TitleTemplate=sub1Title>
-                <MenuItem Key="3">Project</MenuItem>
+                
+                    <MenuItem Key="3">
+                        <NavLink  href="projectlist">
+                            Project
+                        </NavLink>
+                     </MenuItem>
                 <MenuItem Key="4">Product</MenuItem>
                 <MenuItem Key="5">Drawing</MenuItem>
             </SubMenu>
@@ -48,12 +53,12 @@
             </SubMenu>
         </Menu>
     </Sider>
-    <Layout>
+    <Layout Class="site-layout">
         <Header Class="login-name">
             <LoginDisplay />
         </Header>
-        <Content Class="site-layout-background" Style="margin: 16px 16px;padding: 2px;min-height:90vh;">
-            @Body
+        <Content Class="site-layout-background" Style="margin: 16px 16px;padding: 20px;min-height:90vh;">
+                @Body
         </Content>
     </Layout>
 </Layout>
@@ -85,6 +90,7 @@
         background: #fff;
     }
 
+    
     .content {
       display: grid;
       justify-content: center;

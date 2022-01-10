@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "GMPAiNmt5WNjeiE8NNfAVV+qltzykIvKvjF195Oa3WI=",
+  "Hash": "jyhHKTwtJ+LO10z8Mi3KkNmc7dFbdgG40xhcDgTWPw4=",
   "Source": "ichijiku",
   "BasePath": "_content/ichijiku",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Git\\ichijiku\\ichijiku\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ichijiku.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\aa.bat",
+      "SourceId": "ichijiku",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\",
+      "BasePath": "_content/ichijiku",
+      "RelativePath": "aa.bat",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\aa.bat"
     },
     {
       "Identity": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
