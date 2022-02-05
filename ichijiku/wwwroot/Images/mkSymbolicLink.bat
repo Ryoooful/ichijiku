@@ -1,1 +1,0 @@
-mklink /d %~dp0\Caputure \\kfs05\share1\3165-BG-Draw\CATIAV5\PBS\AnalysisServer

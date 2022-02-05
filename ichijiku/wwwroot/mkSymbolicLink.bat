@@ -1,0 +1,1 @@
+mklink /d %~dp0\Files C:\temp\Files

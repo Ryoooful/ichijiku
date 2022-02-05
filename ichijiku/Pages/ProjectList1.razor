@@ -1,5 +1,6 @@
-﻿@page "/counter"
+﻿@page "/aaa"
 @inject HttpClient Http
+<h3>Project</h3>
 
 @if (projectModels == null)
 {
@@ -9,20 +10,21 @@
 }
 else
 {
-    <Table DataSource="projectModels" TItem="ProjectModel">
+@*    <Table DataSource="projectModels" TItem="ProjectModel">
         <Column TData="string"
             @bind-Field="context.Project_Cd"
             Sortable
             Filterable />
 
     
-</Table>
+</Table>*@
 
 }
+
 @code {
     List<ProjectModel>? projectModels { get; set; }
-    protected override async Task OnInitializedAsync()
-    {
-        projectModels = await Http.GetFromJsonAsync<List<ProjectModel>>("https://localhost:1111/api/GetProjectList?project_id=-1");
-    }
+    //protected override async Task OnInitializedAsync()
+    //{
+    //    projectModels = await Http.GetFromJsonAsync<List<ProjectModel>>("https://localhost:1111/api/GetProjectList?project_id=-1");
+    //}
 }

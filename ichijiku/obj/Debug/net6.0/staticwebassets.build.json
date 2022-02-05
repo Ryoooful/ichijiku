@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "jyhHKTwtJ+LO10z8Mi3KkNmc7dFbdgG40xhcDgTWPw4=",
+  "Hash": "KeEIVml/OCa3uVcWVy00jEB4SDCg1/03d+SAR/UB1yk=",
   "Source": "ichijiku",
   "BasePath": "_content/ichijiku",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "ichijiku\\wwwroot",
       "Source": "ichijiku",
-      "ContentRoot": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\",
+      "ContentRoot": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\",
       "BasePath": "_content/ichijiku",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Git\\ichijiku\\ichijiku\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ichijiku.styles.css",
+      "Identity": "C:\\git\\ichijiku\\ichijiku\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ichijiku.styles.css",
       "SourceId": "ichijiku",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Git\\ichijiku\\ichijiku\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\git\\ichijiku\\ichijiku\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/ichijiku",
       "RelativePath": "ichijiku.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Git\\ichijiku\\ichijiku\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ichijiku.styles.css"
+      "OriginalItemSpec": "C:\\git\\ichijiku\\ichijiku\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ichijiku.styles.css"
     },
     {
-      "Identity": "C:\\Git\\ichijiku\\ichijiku\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ichijiku.bundle.scp.css",
+      "Identity": "C:\\git\\ichijiku\\ichijiku\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ichijiku.bundle.scp.css",
       "SourceId": "ichijiku",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Git\\ichijiku\\ichijiku\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\git\\ichijiku\\ichijiku\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/ichijiku",
       "RelativePath": "ichijiku.bundle.scp.css",
       "AssetKind": "All",
@@ -48,30 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Git\\ichijiku\\ichijiku\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ichijiku.bundle.scp.css"
+      "OriginalItemSpec": "C:\\git\\ichijiku\\ichijiku\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ichijiku.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\aa.bat",
+      "Identity": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "ichijiku",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\",
-      "BasePath": "_content/ichijiku",
-      "RelativePath": "aa.bat",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\aa.bat"
-    },
-    {
-      "Identity": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
-      "SourceId": "ichijiku",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\",
+      "ContentRoot": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\",
       "BasePath": "_content/ichijiku",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -85,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "ichijiku",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\",
+      "ContentRoot": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\",
       "BasePath": "_content/ichijiku",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -102,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "ichijiku",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\",
+      "ContentRoot": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\",
       "BasePath": "_content/ichijiku",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -119,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "ichijiku",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\",
+      "ContentRoot": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\",
       "BasePath": "_content/ichijiku",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -136,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "ichijiku",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\",
+      "ContentRoot": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\",
       "BasePath": "_content/ichijiku",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -153,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "ichijiku",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\",
+      "ContentRoot": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\",
       "BasePath": "_content/ichijiku",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -170,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "ichijiku",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\",
+      "ContentRoot": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\",
       "BasePath": "_content/ichijiku",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -187,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "ichijiku",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\",
+      "ContentRoot": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\",
       "BasePath": "_content/ichijiku",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -204,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "ichijiku",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\",
+      "ContentRoot": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\",
       "BasePath": "_content/ichijiku",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -221,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "ichijiku",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\",
+      "ContentRoot": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\",
       "BasePath": "_content/ichijiku",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -238,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "ichijiku",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\",
+      "ContentRoot": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\",
       "BasePath": "_content/ichijiku",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -255,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\css\\site.css",
+      "Identity": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\css\\site.css",
       "SourceId": "ichijiku",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\",
+      "ContentRoot": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\",
       "BasePath": "_content/ichijiku",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -272,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\favicon.ico",
+      "Identity": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\favicon.ico",
       "SourceId": "ichijiku",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\",
+      "ContentRoot": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\",
       "BasePath": "_content/ichijiku",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -289,10 +272,95 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\Images\\abq.png",
+      "Identity": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\Files\\1.png",
       "SourceId": "ichijiku",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\",
+      "ContentRoot": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\",
+      "BasePath": "_content/ichijiku",
+      "RelativePath": "Files/1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Files\\1.png"
+    },
+    {
+      "Identity": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\Files\\2.png",
+      "SourceId": "ichijiku",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\",
+      "BasePath": "_content/ichijiku",
+      "RelativePath": "Files/2.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Files\\2.png"
+    },
+    {
+      "Identity": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\Files\\3.png",
+      "SourceId": "ichijiku",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\",
+      "BasePath": "_content/ichijiku",
+      "RelativePath": "Files/3.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Files\\3.png"
+    },
+    {
+      "Identity": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\Files\\4.png",
+      "SourceId": "ichijiku",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\",
+      "BasePath": "_content/ichijiku",
+      "RelativePath": "Files/4.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Files\\4.png"
+    },
+    {
+      "Identity": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\Files\\5.png",
+      "SourceId": "ichijiku",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\",
+      "BasePath": "_content/ichijiku",
+      "RelativePath": "Files/5.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Files\\5.png"
+    },
+    {
+      "Identity": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\Images\\abq.png",
+      "SourceId": "ichijiku",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\",
       "BasePath": "_content/ichijiku",
       "RelativePath": "Images/abq.png",
       "AssetKind": "All",
@@ -306,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\abq.png"
     },
     {
-      "Identity": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\Images\\catia.png",
+      "Identity": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\Images\\catia.png",
       "SourceId": "ichijiku",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\",
+      "ContentRoot": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\",
       "BasePath": "_content/ichijiku",
       "RelativePath": "Images/catia.png",
       "AssetKind": "All",
@@ -323,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\catia.png"
     },
     {
-      "Identity": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\Images\\favicon.ico",
+      "Identity": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\Images\\favicon.ico",
       "SourceId": "ichijiku",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\",
+      "ContentRoot": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\",
       "BasePath": "_content/ichijiku",
       "RelativePath": "Images/favicon.ico",
       "AssetKind": "All",
@@ -340,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\favicon.ico"
     },
     {
-      "Identity": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\Images\\LS-DYNA.png",
+      "Identity": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\Images\\LS-DYNA.png",
       "SourceId": "ichijiku",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\",
+      "ContentRoot": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\",
       "BasePath": "_content/ichijiku",
       "RelativePath": "Images/LS-DYNA.png",
       "AssetKind": "All",
@@ -357,27 +425,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\LS-DYNA.png"
     },
     {
-      "Identity": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\Images\\mkSymbolicLink.bat",
+      "Identity": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\Images\\shimeji.png",
       "SourceId": "ichijiku",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\",
-      "BasePath": "_content/ichijiku",
-      "RelativePath": "Images/mkSymbolicLink.bat",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\mkSymbolicLink.bat"
-    },
-    {
-      "Identity": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\Images\\shimeji.png",
-      "SourceId": "ichijiku",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Git\\ichijiku\\ichijiku\\wwwroot\\",
+      "ContentRoot": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\",
       "BasePath": "_content/ichijiku",
       "RelativePath": "Images/shimeji.png",
       "AssetKind": "All",
@@ -389,6 +440,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\shimeji.png"
+    },
+    {
+      "Identity": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\mkSymbolicLink.bat",
+      "SourceId": "ichijiku",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\git\\ichijiku\\ichijiku\\wwwroot\\",
+      "BasePath": "_content/ichijiku",
+      "RelativePath": "mkSymbolicLink.bat",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\mkSymbolicLink.bat"
     },
     {
       "Identity": "C:\\Users\\Ryoooful\\.nuget\\packages\\antdesign\\0.10.3.1\\staticwebassets\\css\\ant-design-blazor.aliyun.css",

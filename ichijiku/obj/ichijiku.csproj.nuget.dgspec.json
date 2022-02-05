@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Git\\ichijiku\\ichijiku\\ichijiku.csproj": {}
+    "C:\\git\\ichijiku\\ichijiku\\ichijiku.csproj": {}
   },
   "projects": {
-    "C:\\Git\\ichijiku\\ichijiku\\ichijiku.csproj": {
+    "C:\\git\\ichijiku\\ichijiku\\ichijiku.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Git\\ichijiku\\ichijiku\\ichijiku.csproj",
+        "projectUniqueName": "C:\\git\\ichijiku\\ichijiku\\ichijiku.csproj",
         "projectName": "ichijiku",
-        "projectPath": "C:\\Git\\ichijiku\\ichijiku\\ichijiku.csproj",
+        "projectPath": "C:\\git\\ichijiku\\ichijiku\\ichijiku.csproj",
         "packagesPath": "C:\\Users\\Ryoooful\\.nuget\\packages\\",
-        "outputPath": "C:\\Git\\ichijiku\\ichijiku\\obj\\",
+        "outputPath": "C:\\git\\ichijiku\\ichijiku\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

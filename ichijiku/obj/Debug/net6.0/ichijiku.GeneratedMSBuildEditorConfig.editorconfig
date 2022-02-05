@@ -8,53 +8,53 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ichijiku
 build_property.RootNamespace = ichijiku
-build_property.ProjectDir = C:\Git\ichijiku\ichijiku\
+build_property.ProjectDir = c:\Git\ichijiku\ichijiku\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Git\ichijiku\ichijiku
+build_property.MSBuildProjectDirectory = c:\Git\ichijiku\ichijiku
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Git/ichijiku/ichijiku/App.razor]
+[c:/Git/ichijiku/ichijiku/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Git/ichijiku/ichijiku/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Git/ichijiku/ichijiku/Pages/Index.razor]
+[c:/Git/ichijiku/ichijiku/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Git/ichijiku/ichijiku/Pages/ProjectList.razor]
+[c:/Git/ichijiku/ichijiku/Pages/ProjectList.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvamVjdExpc3QucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Git/ichijiku/ichijiku/Shared/LoginDisplay.razor]
+[c:/Git/ichijiku/ichijiku/Pages/ProjectList1.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvamVjdExpc3QxLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Git/ichijiku/ichijiku/Shared/LoginDisplay.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExvZ2luRGlzcGxheS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Git/ichijiku/ichijiku/Shared/SurveyPrompt.razor]
+[c:/Git/ichijiku/ichijiku/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Git/ichijiku/ichijiku/_Imports.razor]
+[c:/Git/ichijiku/ichijiku/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Git/ichijiku/ichijiku/Shared/MainLayout.razor]
+[c:/Git/ichijiku/ichijiku/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-y9awa1e9np
 
-[C:/Git/ichijiku/ichijiku/Pages/Error.cshtml]
+[c:/Git/ichijiku/ichijiku/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Git/ichijiku/ichijiku/Pages/_Host.cshtml]
+[c:/Git/ichijiku/ichijiku/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Git/ichijiku/ichijiku/Pages/_Layout.cshtml]
+[c:/Git/ichijiku/ichijiku/Pages/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
