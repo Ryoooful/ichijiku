@@ -1,106 +1,18 @@
 ﻿@inherits LayoutComponentBase
 
-<PageTitle>ichijiku</PageTitle>
+<div class="page">
+    <div class="sidebar">
+        <NavMenu />
+    </div>
 
-<Layout Style="min-height:100vh;">
-    <Sider Collapsible Collapsed=@collapsed OnCollapse=@onCollapse>
-        <Header>
-                <div class="content">
-                    @*<img src="./Images/shimeji.png" width="30" height="30" alt="logo"/>*@
-                </div>
-        </Header>
-        <Menu Theme="MenuTheme.Dark" DefaultSelectedKeys=@(new[]{"1"}) Mode="MenuMode.Inline">
-            <MenuItem Key="1">
-              <NavLink href="" Match="NavLinkMatch.All">
-                <Icon Type="home" Theme="outline"/>
-                <span>Home</span>
-                </NavLink>
-            </MenuItem>
-            <MenuItem Key="2">
-                <NavLink  href="projectlist">
-                <Icon Type="bars" Theme="outline" />
-                <span>Projects</span>
-                </NavLink>
-            </MenuItem>
-            @{
-                RenderFragment sub1Title =
-                    @<span>
-                        <Icon Type="project" Theme="outline"/>
-                        <span>Apply</span>
-                    </span>;
-            }
-            <SubMenu Key="sub1" TitleTemplate=sub1Title>
-                
-                    <MenuItem Key="3">
-                        <NavLink  href="projectlist">
-                            Project
-                        </NavLink>
-                     </MenuItem>
-                <MenuItem Key="4">Product</MenuItem>
-                <MenuItem Key="5">Drawing</MenuItem>
-            </SubMenu>
-            @{
-                RenderFragment sub2Title =
-                    @<span>
-                        <Icon Type="setting" Theme="outline"/>
-                        <span>Setting</span>
-                    </span>;
-            }
-            <SubMenu Key="sub2" TitleTemplate=sub2Title>
-                <MenuItem Key="6">User</MenuItem>
-                <MenuItem Key="8">Dept</MenuItem>
-            </SubMenu>
-        </Menu>
-    </Sider>
-    <Layout Class="site-layout">
-        <Header Class="login-name">
+    <main>
+        <div class="top-row px-4 auth">
             <LoginDisplay />
-        </Header>
-        <Content Class="site-layout-background" Style="margin: 16px 16px;padding: 20px;min-height:90vh;">
-                @Body
-        </Content>
-    </Layout>
-</Layout>
+            <a href="https://docs.microsoft.com/aspnet/" target="_blank">About</a>
+        </div>
 
-
-
-@code {
-    bool collapsed;
-
-   void onCollapse(bool collapsed) {
-        Console.WriteLine(collapsed);
-        this.collapsed =collapsed;
-    }
-}
-
-
-<style>
-    .logo:before {
-        /*content: url("./Images/shimeji.png");*/
-        background: rgba(255, 255, 255 0.2);
-        width: 31px;
-        height: 31px;
-        float: left;
-        display: grid;
-        justify-content: center;
-    }
-    
-    .site-layout .site-layout-background {
-        background: #fff;
-    }
-
-    
-    .content {
-      display: grid;
-      justify-content: center;
-    }
-
-    .login-name {
-      display: grid;
-      justify-content: right;
-
-    }
-
-
-</style>
-
+        <article class="content px-4">
+            @Body
+        </article>
+    </main>
+</div>

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\git\\ichijiku\\ichijiku\\ichijiku.csproj": {}
+    "C:\\Users\\Ryoooful\\Desktop\\ichijiku\\ichijiku\\ichijiku.csproj": {}
   },
   "projects": {
-    "C:\\git\\ichijiku\\ichijiku\\ichijiku.csproj": {
+    "C:\\Users\\Ryoooful\\Desktop\\ichijiku\\ichijiku\\ichijiku.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git\\ichijiku\\ichijiku\\ichijiku.csproj",
+        "projectUniqueName": "C:\\Users\\Ryoooful\\Desktop\\ichijiku\\ichijiku\\ichijiku.csproj",
         "projectName": "ichijiku",
-        "projectPath": "C:\\git\\ichijiku\\ichijiku\\ichijiku.csproj",
+        "projectPath": "C:\\Users\\Ryoooful\\Desktop\\ichijiku\\ichijiku\\ichijiku.csproj",
         "packagesPath": "C:\\Users\\Ryoooful\\.nuget\\packages\\",
-        "outputPath": "C:\\git\\ichijiku\\ichijiku\\obj\\",
+        "outputPath": "C:\\Users\\Ryoooful\\Desktop\\ichijiku\\ichijiku\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -44,21 +44,26 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "AntDesign": {
+            "Microsoft.AspNetCore.Components.WebAssembly": {
               "target": "Package",
-              "version": "[0.10.3.1, )"
+              "version": "[6.0.3, )"
             },
-            "Microsoft.AspNetCore.Authentication.Negotiate": {
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.1, )"
+              "version": "[6.0.3, )"
             },
-            "Newtonsoft.Json": {
+            "Microsoft.Authentication.WebAssembly.Msal": {
               "target": "Package",
-              "version": "[13.0.1, )"
+              "version": "[6.0.3, )"
             },
-            "Radzen.Blazor": {
+            "Syncfusion.Blazor": {
               "target": "Package",
-              "version": "[3.14.0, )"
+              "version": "[19.4.0.48, )"
+            },
+            "Syncfusion.Blazor.Themes": {
+              "target": "Package",
+              "version": "[19.4.0.56, )"
             }
           },
           "imports": [
@@ -71,15 +76,23 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
+              "version": "[6.0.3, 6.0.3]"
+            }
+          ],
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "browser-wasm": {
+          "#import": []
         }
       }
     }

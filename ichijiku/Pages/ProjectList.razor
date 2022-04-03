@@ -1,76 +1,19 @@
 ﻿@page "/projectlist"
-@inject HttpClient Http
+@using Syncfusion.Blazor.Cards
 
-@if (projectModels == null)
-{
-    <div class="text-lg-center">
-        <Spin />
-    </div>
-}else
-{
-    <Table DataSource="@projectModels" TItem="ProjectModel" Size=@TableSize.Small>
-        <RowTemplate>
-            <Column TData="string" @bind-Field="context.Project_Cd"  Title="コード" Sortable Filterable />
-            <Column TData="string" @bind-Field="context.Project_Title" Title="プロジェクト名" Sortable Filterable />
-            <Column TData="string" @bind-Field="context.Customer_Name" Title="得意先" Sortable Filterable />
-            <Column TData="string" @bind-Field="context.Project_State" Title="状況" Sortable Filterable />
-             <Column TData="string" @bind-Field="context.Model_Cd" Title="車型"  Sortable Filterable />
-             <ActionColumn>
-                 <Dropdown>
-                    <Overlay>
-                        <Menu>
-                            <MenuItem>
-                                <a class="ant-dropdown-link">
-                                    <Icon Type="plus" />製番追加
-                                </a>
-                            </MenuItem>
-                            <MenuItem>
-                                <a class="ant-dropdown-link">
-                                    <Icon Type="edit" />プロジェクト編集
-                                </a>
-                            </MenuItem>
-                            <MenuItem>
-                                <a class="ant-dropdown-link">
-                                    <Icon Type="delete" />プロジェクト削除
-                                </a>
-                            </MenuItem>
-                        </Menu>
-                    </Overlay>
-                    <ChildContent>
-                        <a class="ant-dropdown-link">
-                                Action <Icon Type="down" />
-                        </a>
-                    </ChildContent>
-                </Dropdown>
-             </ActionColumn>
-         </RowTemplate>
-         <ExpandTemplate Context="rowData" >
-             <Table DataSource="rowData.Data.ProductModels" TItem="ProductModel"  HidePagination Size=@TableSize.Small>
-                 <ActionColumn Width="45">
-                    <img src="./Files/@(context.Image_File_Id).png" width="45" height="45"  alt="" />
-                 </ActionColumn>
-                 <Column TData="string" @bind-Field="context.Product_Cd" Title="製番"  width="150">
-                     <a>@context.Product_Cd</a>
-                 </Column>
-                 <Column TData="string" @bind-Field="context.Product_Name" Title="製品名"/>
-                 <Column TData="string" @bind-Field="context.Customer_Number" Title="得意先品番"/>
-             </Table>
-         </ExpandTemplate>
-</Table>
-}
+<PageTitle>Counter</PageTitle>
+
+<h1>Counter</h1>
+
+<p role="status">Current count: @currentCount</p>
+
+<button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
 
 @code {
-    List<ProjectModel>? projectModels { get; set; }
-    protected override async Task OnInitializedAsync()
+    private int currentCount = 0;
+
+    private void IncrementCount()
     {
-        projectModels = await Http.GetFromJsonAsync<List<ProjectModel>>("https://localhost:1111/api/GetProjectList?project_id=-1");
+        currentCount++;
     }
 }
-
-<style>
-.right {
-    text-align: right;
-}
-
-
-</style>
